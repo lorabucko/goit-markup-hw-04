@@ -390,7 +390,6 @@ footer .logo {
 footer .container {
     display: flex;
     gap: 120px;
-    
 }
 .footer-social .social-list{
     display: flex;
